@@ -1,0 +1,52 @@
+
+
+body{
+    background-image: url(images/fond.jpg);
+    background-size: 100%;
+    font-family: cursive;
+    color: aqua;
+}
+nav{
+    color: yellow;
+    
+}
+li:hover a{
+    color:chartreuse
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-family: cursive;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+.description{
+    display: flex;
+    justify-content: space-around;
+}
+
+.reservation{
+        display: flex;
+        justify-content: space-between;
+}
+
+.galerie{
+    display: flex;
+    justify-content: space-between;
+}
+
+#plat{
+    width: 500px;
+    height: 500px;
+}
+#équipe{
+    width: 500px;
+    height: 500px;
+}
+#salle{
+    width: 500px;
+    height: 500px;
+}
